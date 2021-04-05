@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="算法:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="算法.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="算法" />
+    </root>
+  </artifact>
+</component>
